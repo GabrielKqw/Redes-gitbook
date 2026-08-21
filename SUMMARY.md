@@ -7,3 +7,4 @@
 * [Módulo 5 — DNS](modulo-5-dns.md)
 * [Módulo 6 — HTTP: requisições, respostas e cache](modulo-6-http-requisicoes-respostas-e-cache.md)
 * [Módulo 7 — Fibra, operadoras, ONT/ONU, OLT e CGNAT](modulo-7-fibra-operadoras-ont-onu-olt-e-cgnat.md)
+* [Módulo 8 — Vulnerabilidades e laboratório virtual teórico](modulo-8-vulnerabilidades-e-laboratorio-virtual-teorico.md)
