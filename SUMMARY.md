@@ -11,3 +11,4 @@
 * [Módulo 9 — Ferramentas de segurança em laboratório](modulo-9-ferramentas-de-seguranca-em-laboratorio.md)
 * [Módulo 10 — Inventário seguro da rede](modulo-10-inventario-seguro-da-rede.md)
 * [Módulo 11 — Ferramentas Linux para entender a rede](modulo-11-ferramentas-linux-para-entender-a-rede.md)
+* [Módulo 12 — Instalação segura de ferramentas Linux](modulo-12-instalacao-segura-de-ferramentas-linux.md)
