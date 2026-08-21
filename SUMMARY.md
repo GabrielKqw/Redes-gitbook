@@ -9,3 +9,4 @@
 * [Módulo 7 — Fibra, operadoras, ONT/ONU, OLT e CGNAT](modulo-7-fibra-operadoras-ont-onu-olt-e-cgnat.md)
 * [Módulo 8 — Vulnerabilidades e laboratório virtual teórico](modulo-8-vulnerabilidades-e-laboratorio-virtual-teorico.md)
 * [Módulo 9 — Ferramentas de segurança em laboratório](modulo-9-ferramentas-de-seguranca-em-laboratorio.md)
+* [Módulo 10 — Inventário seguro da rede](modulo-10-inventario-seguro-da-rede.md)
