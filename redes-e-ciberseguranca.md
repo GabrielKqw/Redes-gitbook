@@ -6,15 +6,7 @@
 
 1. Módulo 1 — Comunicação em uma LAN
 2. Módulo 2 — OSI, TCP/IP e conexão real
-
-## Material de referência
-
-* Fundamentos de redes
-* DNS, roteamento e exposição
-* HTTPS e TLS
-* Firewall e segmentação
-* Defesa e boas práticas
-* Roteiro de estudo e prática segura
+3. Módulo 3 — IP, sub-redes e roteamento
 
 ## Como aprender
 
